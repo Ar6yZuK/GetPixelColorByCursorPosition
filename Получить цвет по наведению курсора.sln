@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Получить цвет по наведению курсора", "Получить цвет по наведению курсора\Получить цвет по наведению курсора.csproj", "{4AFAEBE7-36E1-4D99-93DF-647336CC1633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AFAEBE7-36E1-4D99-93DF-647336CC1633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFAEBE7-36E1-4D99-93DF-647336CC1633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFAEBE7-36E1-4D99-93DF-647336CC1633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFAEBE7-36E1-4D99-93DF-647336CC1633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525E387B-A193-4F46-9BBB-610B12F5BA59}
+	EndGlobalSection
+EndGlobal
